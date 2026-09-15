@@ -1,34 +1,50 @@
 [
   {
-    "id": "i1785289239476",
-    "ticker": "URBN",
-    "name": "Urban Outfitters Inc",
-    "sector": "Consumer Discretionary",
-    "industry": "Apparel Retail",
-    "thesis": "Cheaper than peers at 14\u00d7 earnings vs 30\u00d7 median \u2014 cash flow jumped $97M \u2192 $445M; ~61% below our fair value.",
-    "business": "Urban Outfitters retails apparel and home goods through Urban Outfitters, Anthropologie, and Free People brands.",
-    "entry": "Cheaper than peers at 14\u00d7 earnings vs 30\u00d7 median \u2014 cash flow jumped $97M \u2192 $445M; ~61% below our fair value.",
-    "upsidePct": 58.3,
+    "id": "i1789435554319",
+    "ticker": "XYZ",
+    "name": "Block Inc",
+    "sector": "Financials",
+    "industry": "Software - Infrastructure",
+    "thesis": "Cash flow jumped $544M → $2.4B — profits up about 375%; ~53% below our fair value.",
+    "business": "Block (formerly Square) provides payment processing, Cash App, and merchant tools for small businesses and consumers.",
+    "entry": "Cash flow jumped $544M → $2.4B — profits up about 375%; ~53% below our fair value.",
+    "upsidePct": 22.8,
     "levels": {
-      "ep": 74.39,
-      "tp": 121.78,
-      "sl": 66.23
+      "ep": 77.47,
+      "tp": 95.17,
+      "sl": 71.84
     }
   },
   {
-    "id": "i1785289148186",
-    "ticker": "VICI",
-    "name": "VICI Properties Inc",
-    "sector": "Real Estate",
-    "industry": "REIT - Diversified",
-    "thesis": "Cheaper than peers at 9\u00d7 earnings vs 18\u00d7 median \u2014 cash flow jumped $894M \u2192 $2.5B; profits up about 148%.",
-    "business": "VICI Properties owns gaming, hospitality, and experiential real estate leased to casino and entertainment operators.",
-    "entry": "Cheaper than peers at 9\u00d7 earnings vs 18\u00d7 median \u2014 cash flow jumped $894M \u2192 $2.5B; profits up about 148%.",
-    "upsidePct": 78.1,
+    "id": "i1789435425206",
+    "ticker": "GOOGL",
+    "name": "Alphabet",
+    "sector": "Communication Services",
+    "industry": "Internet Content & Information",
+    "thesis": "Search and YouTube ads still throw off the cash that funds Cloud and AI — the market is pricing execution risk, not a dead franchise.",
+    "business": "Alphabet operates Google Search, YouTube, advertising, and cloud services worldwide.",
+    "entry": "Search and YouTube ads still throw off the cash that funds Cloud and AI — the market is pricing execution risk, not a dead franchise.",
+    "upsidePct": 44.6,
     "levels": {
-      "ep": 27.28,
-      "tp": 47.62,
-      "sl": 25.44
+      "ep": 345.7,
+      "tp": 500,
+      "sl": 324
+    }
+  },
+  {
+    "id": "i1789435242677",
+    "ticker": "DASH",
+    "name": "DoorDash",
+    "sector": "Consumer Discretionary",
+    "industry": "Internet Content & Information",
+    "thesis": "More restaurants and more ads on the app are lifting profits as people keep ordering food online — cash flow jumped $455M → $2.2B; profits up about 517%; ~59% below our fair value.",
+    "business": "DoorDash operates a U.S. food delivery marketplace connecting restaurants, consumers, and dashers.",
+    "entry": "More restaurants and more ads on the app are lifting profits as people keep ordering food online — cash flow jumped $455M → $2.2B; profits up about 517%; ~59% below our fair value.",
+    "upsidePct": 33.3,
+    "levels": {
+      "ep": 236.74,
+      "tp": 315.46,
+      "sl": 213.07
     }
   }
 ]
